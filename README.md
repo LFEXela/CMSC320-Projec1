@@ -11,6 +11,6 @@ Does a player's stamina decline significantly as they age?
 Is there a statistically significant difference in the overall ratings of players based on their preferred foot?
 
 From these, we have formulated a main question:
-do players naturally have an advantage in the game of soccer or is skill and heart all that is needed to be the best.
+How do physical attributes like height and age affect overall rating? We want to get a sense of how much physical attributes help players at the highest level of soccer, as compared to skills they can develop on their own.
 |
 | --> we will train a regression model using PERSONAL ATTRIBUTES such as height, age, foot dominance rather than the FIFA's given overall ratings (offensive rating, defensive rating, shot, power) to see if some people naturally have an advantage
