@@ -1,12 +1,16 @@
 # CMSC320-Projec1
 Project 1 repo for CMSC320
 
-Introduction. The introduction should motivate your work: what is your topic? What question(s) are you trying to answer with your analysis? Why is answering those questions important?
+Introduction
+The field of sports analytics has undergone a massive transformation in recent decades, evolving from a niche interest to a billion dollar industry dictating recruitment, development and financial investment. As a group, our shared passion for sports led us to the FIFA 21 Dataset, containing comprehensive statistics for over 18,000 players.
 
-Our topic is soccer (futbol), and the player statistics from the popular video game FIFA 21. After reviewing the dataset, we became curious in whether a player’s personal attributes have any effect on their overall rating.
+Our research is centered around a few essential questions:
 
+To what extent does a player's height influence their technical skills?
+Does a player's stamina decline significantly as they age?
+Is there a statistically significant difference in the overall ratings of players based on their preferred foot?
 
-Player attributes refer to characteristics such as preferred foot, height, weight, age, position, and other physical or profile-based traits. We are not focusing on in-game performance skill categories such as offensive rating, defensive rating, passing, shooting, or dribbling. Basically, we wanted to see if some players naturally have an advantage in the game of soccer or if skill and heart is all is needed to be the best. Thus, for our project, we will see if we are able to predict a players overall rating by only their PERSONAL ATTRIBUTES.
-
-
-We think this question is important to answer because if personal attributes DON'T affect a person's rating, then soccer really is just a game of skill, and kids of all varieties shouldn't be discourage to pursue soccer as a dream.
+From these, we have formulated a main question:
+do players naturally have an advantage in the game of soccer or is skill and heart all that is needed to be the best.
+|
+| --> we will train a regression model using PERSONAL ATTRIBUTES such as height, age, foot dominance rather than the FIFA's given overall ratings (offensive rating, defensive rating, shot, power) to see if some people naturally have an advantage
