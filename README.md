@@ -13,5 +13,4 @@ Is there a statistically significant difference in the overall ratings of player
 From these, we have formulated a main question:
 How do physical attributes like height and age affect overall rating? We want to get a sense of how much physical attributes help players at the highest level of soccer, as compared to skills they can develop on their own.
 
-<br>
 we will train a regression model using PERSONAL ATTRIBUTES such as height, age, foot dominance rather than the FIFA's given overall ratings (offensive rating, defensive rating, shot, power) to see if some people naturally have an advantage
